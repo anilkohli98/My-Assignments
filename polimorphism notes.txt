@@ -1,0 +1,15 @@
+poli means many and morphism means forms or behaviour of a single thing
+it means that many usage of a single thing that is polimorphism
+suppose if thee is single "+" it can be used for many purpuses
+
+method= this is not a specific syntex of python but this is a type of way around means jugaad
+
+
+Duck typing:- in python we know that there is dynamic typing means we dont have to tell python which type of data
+is this python detects itself which type of data is this eg. var=4
+so here duck typing is a special case of dynamic typing.
+so this word is derived from a code by a writer james whitecom rylie he says that if a bird walk like a duck,swim like a duck
+and quack like a duck that bird is a duck.So if a behaviour of a bird is like a duck i will calln that bird a duck and i dont care about the bird is duck or not if the behaviour of that bird is matching i will call that bird is a duck
+so it depends all on the behaviour.eg.suppose if we are having two calling apps in our mobile like truecaller and phone call and the purpuse is  calling for both the apps so for me it does'nt matter that which app is calling for me the 
+behaviour is matter that is call and i will call both two apps calling apps
+ 

@@ -1,0 +1,2 @@
+input()-so we know what is the input method is it will take the value from the user with spaces 
+input().split()-and this function split is use to split the vaalues under the input according to the spaces

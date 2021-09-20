@@ -1,0 +1,1 @@
+in python "+" is also a predefined function which which calls automatically "__add__(arguments)"

@@ -1,0 +1,9 @@
+errors:-
+compile error-this is the error u forgpot to write something like ":",","''"etc this type of mistakes are called compiler
+error
+
+syntex error:-this is the error when you r not writing the syntex correctly like "prin","inpt" etc.
+
+logical errors:-this is the error which arrivs when your logic i not correctly
+
+runtime error:-when your program runs infinitely

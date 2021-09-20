@@ -1,0 +1,6 @@
+x,y=map(int,input("enter two integer numbers").split())
+print(x,y)
+i,fl,ch=input().split()
+i=int(i)
+fl=float(fl)
+print("%d$%.2f$%c"%(i,fl,ch))
